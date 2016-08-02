@@ -25,8 +25,8 @@ html * {
 body {
   font-size: 1.6rem;
   font-family: "Bitter", serif;
-  color: #a29cc2;
-  background-color: #3d385a;
+  color: #fff;
+  background-color: #F05226;
 }
 
 @media only screen and (min-width: 1170px) {
@@ -67,12 +67,12 @@ Modules - reusable parts of our design
   font-weight: bold;
   font-size: 1.2rem;
   font-family: "PT Sans", sans-serif;
-  color: #ffffff;
-  background-color: #685f99;
+  color: #963F6B;
+  background-color: #bdd5f0;
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.2);
 }
 .no-touch .cd-btn:hover {
-  background-color: #756da4;
+  background-color: #9db5d2;
 }
 @media only screen and (min-width: 1170px) {
   .cd-btn {
